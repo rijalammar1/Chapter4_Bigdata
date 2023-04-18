@@ -22,3 +22,21 @@
 | `16` | untuk menulis data baru ke sistem menggunakan write dan di save |
 | `17` | untuk menulis atau menyimpan data ke format parquet. |
 | `18` | untuk membaca,menulis,dan memanipulasi data dengan berbagai format |
+# PRAKTIKUM
+## Bekerja dengan berkas teks
+<img src="https://user-images.githubusercontent.com/75898886/232669836-ce253587-5936-4af5-9155-b2b7b52d847b.PNG" width=40% height=40%><br>
+## Bekerja dengan CSV
+<img src="https://user-images.githubusercontent.com/75898886/232669941-646a0c5e-4c30-4657-9fbd-4a7f304493d0.PNG" width=40% height=40%><br>
+## Bekerja dengan JSON
+<img src="https://user-images.githubusercontent.com/75898886/232670028-b28adc5a-a108-40f1-a637-1df6024b17d5.PNG" width=40% height=40%><br>
+## Mekases Metadata Menggunakan Catalog
+<img src="https://user-images.githubusercontent.com/75898886/232670110-ed865928-ef1e-4a46-8532-67657932a7b5.PNG" width=40% height=40%><br>
+## Membuat Data Frames
+<img src="https://user-images.githubusercontent.com/75898886/232670205-7d7b0fad-ee6e-4aa4-aac0-2dd7d193082c.PNG" width=40% height=40%><br>
+## Membuat Data Frames dari Data Base External
+<img src="https://user-images.githubusercontent.com/75898886/232670308-61bdda9f-ba0c-4eae-b10c-e5b83f4c4655.PNG" width=40% height=40%><br>
+## Membuat Dataset
+<img src="https://user-images.githubusercontent.com/75898886/232670396-6c060fad-bfeb-4ece-b8b2-f4ecddad9f64.PNG" width=40% height=40%><br>
+## Mengonversi Data Frames Ke RDDs
+<img src="https://user-images.githubusercontent.com/75898886/232670498-882fb9d8-1ecb-4a25-a14c-c81307584ea4.PNG" width=40% height=40%><br>
+
